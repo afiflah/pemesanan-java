@@ -22,7 +22,7 @@ Aplikasi desktop sederhana berbasis Java Swing dan Maven untuk pemesanan makanan
 - `utils/DBConnection.java` → Koneksi database
 
 ## 🛠 Build Tools
-- Java 11+
+- Java 17+
 - Maven
 - XAMPP / MySQL
 
